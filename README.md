@@ -17,25 +17,13 @@
 
 ## 👩‍💻 About Me
 
-```python
-class KalycaNathania:
-    def __init__(self):
-        self.name       = "Kalyca Nathania"
-        self.username   = "kalycanbnctaa"
-        self.university = "Institut Teknologi Bandung"
-        self.major      = "Computer Science"
-        self.location   = "Bandung, Indonesia 🇮🇩"
-        self.focus      = ["AI, ML", "Backend Engineering"]
-        self.languages  = ["Python", "Java", "C, C++", "JavaScript", "C#"]
-        self.email      = "kalycamanullang@gmail.com"
-        self.status     = "Open to internship, collaboration, research"
+Hi! I'm **Kalyca Nathania**, a Computer Science student at **Institut Teknologi Bandung** 🎓
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together 🚀")
+I'm passionate about **AI, ML** and **backend engineering**, and I love turning complex problems into elegant, meaningful solutions. Whether it's training a machine learning model or architecting a robust backend system, I'm always up for a good challenge.
 
-me = KalycaNathania()
-me.say_hi()
-```
+Based in Bandung, Indonesia 🇮🇩, I'm currently exploring machine learning architectures and distributed systems, while actively looking for opportunities to grow, collaborate, and contribute to impactful projects.
+
+> *"Thanks for dropping by! Let's build something great together 🚀"*
 
 ---
 
