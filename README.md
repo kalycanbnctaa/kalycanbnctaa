@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kalyca%20Nathania&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20ITB%20%7C%20AI%2C%20ML%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Science+%40+ITB+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Backend+Engineer+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Science+%40+ITB;AI+%26+ML+Enthusiast;Backend+Engineer;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <br>
 
@@ -15,19 +15,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## ![About Me](https://img.shields.io/badge/About%20Me-a78bfa?style=flat-square)
 
-Hi! I'm **Kalyca Nathania**, a Computer Science student at **Institut Teknologi Bandung** 🎓
+Hi! I'm **Kalyca Nathania**, a Computer Science student at **Institut Teknologi Bandung**
 
 I'm passionate about **AI, ML** and **backend engineering**, and I love turning complex problems into elegant, meaningful solutions. Whether it's training a machine learning model or architecting a robust backend system, I'm always up for a good challenge.
 
-Based in Bandung, Indonesia 🇮🇩, I'm currently exploring machine learning architectures and distributed systems, while actively looking for opportunities to grow, collaborate, and contribute to impactful projects.
+Based in Bandung, Indonesia, I'm currently exploring machine learning architectures and distributed systems, while actively looking for opportunities to grow, collaborate, and contribute to impactful projects.
 
-> *"Thanks for dropping by! Let's build something great together 🚀"*
+> *"Thanks for dropping by! Let's build something great together."*
 
 ---
 
-## 🛠 Tech Stack
+## ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-7c3aed?style=flat-square)
 
 **Languages**
 
@@ -56,7 +56,7 @@ Based in Bandung, Indonesia 🇮🇩, I'm currently exploring machine learning a
 
 ---
 
-## 📊 GitHub Stats
+## ![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-3b82f6?style=flat-square)
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Based in Bandung, Indonesia 🇮🇩, I'm currently exploring machine learning a
 
 ---
 
-## 🏆 Achievements
+## ![Achievements](https://img.shields.io/badge/Achievements-ec4899?style=flat-square)
 
 <div align="center">
 
@@ -84,18 +84,18 @@ Based in Bandung, Indonesia 🇮🇩, I'm currently exploring machine learning a
 
 ---
 
-## 🌱 Currently
+## ![Currently](https://img.shields.io/badge/Currently-4ade80?style=flat-square)
 
 | Status | Detail |
 |--------|--------|
-| 🎓 Studying | Computer Science @ Institut Teknologi Bandung |
-| 🔭 Exploring | Machine Learning architectures, Distributed Systems |
-| 🤝 Open to | Internship, collaboration, research opportunities |
-| 🏗 Building | Personal projects in AI, ML and backend |
+| ![Studying](https://img.shields.io/badge/Studying-1e40af?style=flat-square) | Computer Science @ Institut Teknologi Bandung |
+| ![Exploring](https://img.shields.io/badge/Exploring-7c3aed?style=flat-square) | Machine Learning architectures, Distributed Systems |
+| ![Open to](https://img.shields.io/badge/Open%20to-059669?style=flat-square) | Internship, collaboration, research opportunities |
+| ![Building](https://img.shields.io/badge/Building-dc2626?style=flat-square) | Personal projects in AI, ML and backend |
 
 ---
 
-## 📈 Contribution Graph
+## ![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-8b5cf6?style=flat-square)
 
 <div align="center">
 
